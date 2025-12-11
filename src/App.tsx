@@ -99,7 +99,7 @@ const App: React.FC = () => {
             <h2 className="font-semibold text-neutral-700 mb-1">Research</h2>
             <div className="space-y-4">
               <div className="flex shadow border rounded overflow-hidden">
-                <img src="/img/if.gif" alt="Research 1" className="w-40 object-cover" />
+                <img src="img/if.gif" alt="Research 1" className="w-40 object-cover" />
                 <div className="p-3">
                   <a href="https://www.biorxiv.org/content/10.1101/2025.04.13.648650v1.abstract" className="text-blue-700 font-semibold">Uncovering Shared and Tissue-Specific Molecular Adaptations to Intermittent Fasting in Liver, Brain, and Muscle</a>
                   <p className="text-sm mt-1">Yibo Fan, <b>Senuri De Silva</b>, Nishat I Tabassum, Xiangyuan Peng, Vernise Lim, Xiangru Cheng, Keshava K Datta, Rohan Lowe, Terrance G Johns, Mark P Mattson, Suresh Mathivanan, Christopher G Sobey, Eitan Okun, Yong U Liu, Guobing Chen, Mitchell KP Lai, Dong-Gyu Jo, Jayantha Gunaratne, Thiruma V Arumugam</p>
@@ -108,7 +108,7 @@ const App: React.FC = () => {
               </div>
 
               <div className="flex shadow border rounded overflow-hidden">
-                <img src="/img/hgsoc.png" alt="Research 2" className="w-40 object-cover" />
+                <img src="img/hgsoc.png" alt="Research 2" className="w-40 object-cover" />
                 <div className="p-3">
                   <a href="https://www.nature.com/articles/s41597-024-03536-1" className="text-blue-700 font-semibold">Machine Learning-Enhanced Extraction of Biomarkers for High-Grade Serous Ovarian Cancer from Proteomics Data</a>
                   <p className="text-sm mt-1"><b>Senuri De Silva</b>, Asfa Alli-Shaik, Jayantha Gunaratne</p>
@@ -117,7 +117,7 @@ const App: React.FC = () => {
               </div>
 
               <div className="flex shadow border rounded overflow-hidden">
-                <img src="/img/flexstat.jpeg" alt="Research 2" className="w-40 object-cover" />
+                <img src="img/flexstat.jpeg" alt="Research 2" className="w-40 object-cover" />
                 <div className="p-3">
                   <a href="https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae056/7644297" className="text-blue-700 font-semibold">FlexStat: combinatory differentially expressed protein extraction</a>
                   <p className="text-sm mt-1"><b>Senuri De Silva</b>, Asfa Alli-Shaik, Jayantha Gunaratne</p>
@@ -126,7 +126,7 @@ const App: React.FC = () => {
               </div>
 
               <div className="flex shadow border rounded overflow-hidden">
-                <img src="/img/reviewsc.png" alt="Research 2" className="w-40 object-cover" />
+                <img src="img/reviewsc.png" alt="Research 2" className="w-40 object-cover" />
                 <div className="p-3">
                   <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.13219" className="text-blue-700 font-semibold">Skin cancer identification utilizing deep learning: A survey</a>
                   <p className="text-sm mt-1">Dulani Meedeniya, <b>Senuri De Silva</b>, Lahiru Gamage, Uditha Isuranga</p>
@@ -135,7 +135,7 @@ const App: React.FC = () => {
               </div>
 
               <div className="flex shadow border rounded overflow-hidden">
-                <img src="/img/exsc.jpg" alt="Research 2" className="w-40 object-cover" />
+                <img src="img/exsc.jpg" alt="Research 2" className="w-40 object-cover" />
                 <div className="p-3">
                   <a href="https://www.mdpi.com/2079-9292/13/4/680" className="text-blue-700 font-semibold">Melanoma skin cancer identification with explainability utilizing mask guided technique</a>
                   <p className="text-sm mt-1">Lahiru Gamage, Uditha Isuranga, Dulani Meedeniya, <b>Senuri De Silva</b>, Pratheepan Yogarajah</p>
@@ -144,7 +144,7 @@ const App: React.FC = () => {
               </div>
 
               <div className="flex shadow border rounded overflow-hidden">
-                <img src="/img/clexsc.gif" alt="Research 2" className="w-40 object-cover" />
+                <img src="img/clexsc.gif" alt="Research 2" className="w-40 object-cover" />
                 <div className="p-3">
                   <a href="https://ieeexplore.ieee.org/abstract/document/10145622" className="text-blue-700 font-semibold">Melanoma skin cancer classification with explainability</a>
                   <p className="text-sm mt-1">Lahiru Gamage, Uditha Isuranga, <b>Senuri De Silva</b>, Dulani Meedeniya</p>
@@ -153,7 +153,7 @@ const App: React.FC = () => {
               </div>
 
               <div className="flex shadow border rounded overflow-hidden">
-                <img src="/img/ad.png" alt="Research 2" className="w-40 object-cover" />
+                <img src="img/ad.png" alt="Research 2" className="w-40 object-cover" />
                 <div className="p-3">
                   <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003165569-11/alzheimer-disease-diagnosis-using-functional-structural-neuroimaging-modalities-de-silva-dayarathna-meedeniya" className="text-blue-700 font-semibold">Alzheimer's disease diagnosis using functional and structural neuroimaging modalities</a>
                   <p className="text-sm mt-1"><b>S De Silva</b>, S Dayarathna, D Meedeniya</p>
@@ -162,7 +162,7 @@ const App: React.FC = () => {
               </div>
 
               <div className="flex shadow border rounded overflow-hidden">
-                <img src="/img/dss.jpg" alt="Research 2" className="w-40 object-cover" />
+                <img src="img/dss.jpg" alt="Research 2" className="w-40 object-cover" />
                 <div className="p-3">
                   <a href="https://link.springer.com/article/10.1007/s11633-020-1252-1" className="text-blue-700 font-semibold">Computational decision support system for ADHD identification</a>
                   <p className="text-sm mt-1"><b>Senuri De Silva</b>, Sanuwani Dayarathna, Gangani Ariyarathne, Dulani Meedeniya, Sampath Jayarathna, Anne MP Michalek</p>
@@ -171,7 +171,7 @@ const App: React.FC = () => {
               </div>
 
               <div className="flex shadow border rounded overflow-hidden">
-                <img src="/img/cnn.png" alt="Research 2" className="w-40 object-cover" />
+                <img src="img/cnn.png" alt="Research 2" className="w-40 object-cover" />
                 <div className="p-3">
                   <a href="https://www.igi-global.com/article/fmri-feature-extraction-model-for-adhd-classification-using-convolutional-neural-network/266240" className="text-blue-700 font-semibold">fMRI feature extraction model for ADHD classification using convolutional neural network</a>
                   <p className="text-sm mt-1"><b>Senuri De Silva</b>, Sanuwani Udara Dayarathna, Gangani Ariyarathne, Dulani Meedeniya, Sampath Jayarathna</p>
