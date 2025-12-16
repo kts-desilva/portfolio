@@ -52,6 +52,7 @@ const App: React.FC = () => {
               <li><a href="#opensource" className="hover:underline">▪ Open Source</a></li>
               <li><a href="#service" className="hover:underline">▪ Service</a></li>
               <li><a href="#students" className="hover:underline">▪ Students Mentored</a></li>
+              <li><a href="#photography" className="hover:underline">▪ Photography</a></li>
             </ul>
           </div>
         </aside>
@@ -199,7 +200,7 @@ const App: React.FC = () => {
           </div>
           <div id="photography">
             <h2 className="font-semibold text-neutral-700 mb-1">Photography</h2>
-            <p>Check my <a href= "https://ktsdesilva95.darkroom.com/">darkroom</a> mini gallery.</p>
+            <p>Check my mini <a href= "https://ktsdesilva95.darkroom.com/">darkroom</a>  gallery.</p>
           </div>
           
         </section>
