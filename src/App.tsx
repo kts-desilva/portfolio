@@ -187,10 +187,13 @@ const App: React.FC = () => {
           <div id="opensource">
             <h2 className="font-semibold text-neutral-700 mb-1">Projects</h2>
             <p>Sharing some small tools and libraries I've enjoyed contributing to. No fanfare, just links.</p>
-            <p>Proteomics data analysis tool: <a href= "https://jglab.shinyapps.io/flexstatv1-pipeline-only/">FlexStat</a></p>
-            <p>Machine learning feature extraction tool: <a href= "https://kts-desilva-prot-fs-streamlit-srcapp-eh8dfx.streamlit.app/">UMAI</a></p>
-            <p>Curated breast cancer proteomics data resource: <a href= "https://jglab2.shinyapps.io/BC_data_portal/">Proteograte</a></p>
-            <p>Curated surface protein resource: <a href= "https://jglab.shinyapps.io/Surface_data_portal/">Surfaceome Database</a></p>
+            <ul className="list-disc ml-5">
+              <li>Proteomics data analysis tool: <a href= "https://jglab.shinyapps.io/flexstatv1-pipeline-only/">FlexStat</a></li>
+              <li>Machine learning feature extraction tool: <a href= "https://kts-desilva-prot-fs-streamlit-srcapp-eh8dfx.streamlit.app/">UMAI</a></li>
+              <li>Curated breast cancer proteomics data resource: <a href= "https://jglab2.shinyapps.io/BC_data_portal/">Proteograte</a></li>
+              <li>Curated surface protein resource: <a href= "https://jglab.shinyapps.io/Surface_data_portal/">Surfaceome Database</a></li>
+            </ul>
+            
           </div>
           <div id="service">
             <h2 className="font-semibold text-neutral-700 mb-1">Service</h2>
