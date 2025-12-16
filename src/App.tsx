@@ -32,6 +32,7 @@ const App: React.FC = () => {
           <li><a href="#opensource" className="hover:underline">Projects</a></li>
           <li><a href="#service" className="hover:underline">Service</a></li>
           <li><a href="#students" className="hover:underline">Students</a></li>
+          <li><a href="#photography" className="hover:underline">Photography</a></li>
         </ul>
       </nav>
 
@@ -196,6 +197,11 @@ const App: React.FC = () => {
             <a href="https://www.linkedin.com/in/lahiru-kumara/"> Lahiru Gamage</a> (University of Moratuwa, FYP 2023-2024, [<a href="https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.13219">1</a>, <a href="Melanoma skin cancer classification with explainability">2</a>, <a href="https://www.mdpi.com/2079-9292/13/4/680">3</a>]), 
             <a href="https://www.linkedin.com/in/uditha-isuranga/"> Uditha Isuranga</a> (University of Moratuwa, FYP 2023-2024, [<a href="https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.13219">1</a>, <a href="Melanoma skin cancer classification with explainability">2</a>, <a href="https://www.mdpi.com/2079-9292/13/4/680">3</a>])</p>
           </div>
+          <div id="photography">
+            <h2 className="font-semibold text-neutral-700 mb-1">Photography</h2>
+            <p>Check my <a href= "https://ktsdesilva95.darkroom.com/">darkroom</a> mini gallery.</p>
+          </div>
+          
         </section>
       </div>
 
