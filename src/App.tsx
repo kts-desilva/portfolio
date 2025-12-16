@@ -190,6 +190,7 @@ const App: React.FC = () => {
             <p>Proteomics data analysis tool: <a href= "https://jglab.shinyapps.io/flexstatv1-pipeline-only/">FlexStat</a></p>
             <p>Machine learning feature extraction tool: <a href= "https://kts-desilva-prot-fs-streamlit-srcapp-eh8dfx.streamlit.app/">UMAI</a></p>
             <p>Curated breast cancer proteomics data resource: <a href= "https://jglab2.shinyapps.io/BC_data_portal/">Proteograte</a></p>
+            <p>Curated surface protein resource: <a href= "https://jglab.shinyapps.io/Surface_data_portal/">Surfaceome Database</a></p>
           </div>
           <div id="service">
             <h2 className="font-semibold text-neutral-700 mb-1">Service</h2>
