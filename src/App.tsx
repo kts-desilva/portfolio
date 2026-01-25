@@ -18,7 +18,7 @@ const App: React.FC = () => {
       </style>
       {/* Top logo */}
       <div className="flex flex-col items-center py-8">
-        <img src="/lamp-icon.png" alt="Lamp icon" className="h-12 mb-2" />
+        <!-- img src="/lamp-icon.png" alt="Lamp icon" className="h-12 mb-2" -->
         <h1 className="text-xl tracking-widest">Senuri De Silva</h1>
         <h4 className="text-xs tracking-widest">Senuri_De_Silva_from.tp[AT]a-star[DOT]edu[DOT]sg</h4>
       </div>
@@ -40,7 +40,7 @@ const App: React.FC = () => {
         {/* Sidebar */}
         <aside className="w-1/4 pr-6 text-sm">
           <div className="mb-4">
-            <img src="/profile.jpg" alt="Profile" className="w-24 h-24 rounded-full mb-2 border border-neutral-300" />
+            <img src="/profile.png" alt="Profile" className="w-24 h-24 rounded-full mb-2 border border-neutral-300" />
             <h2 className="font-semibold">Senuri De Silva</h2>
             <p className="text-neutral-600">Researcher · Writer · Quiet Thinker · Aspiring photographer</p>
           </div>
