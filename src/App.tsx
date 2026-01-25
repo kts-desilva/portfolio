@@ -39,7 +39,7 @@ const App: React.FC = () => {
         {/* Sidebar */}
         <aside className="w-1/4 pr-6 text-sm">
           <div className="mb-4">
-            <img src="/profile.png" alt="Profile" className="w-24 h-24 rounded-full mb-2 border border-neutral-300" />
+            <img src="img/profile.png" alt="Profile" className="w-24 h-24 rounded-full mb-2 border border-neutral-300" />
             <h2 className="font-semibold">Senuri De Silva</h2>
             <p className="text-neutral-600">Researcher · Writer · Quiet Thinker · Aspiring photographer</p>
           </div>
