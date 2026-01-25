@@ -18,7 +18,6 @@ const App: React.FC = () => {
       </style>
       {/* Top logo */}
       <div className="flex flex-col items-center py-8">
-        <!-- img src="/lamp-icon.png" alt="Lamp icon" className="h-12 mb-2" -->
         <h1 className="text-xl tracking-widest">Senuri De Silva</h1>
         <h4 className="text-xs tracking-widest">Senuri_De_Silva_from.tp[AT]a-star[DOT]edu[DOT]sg</h4>
       </div>
